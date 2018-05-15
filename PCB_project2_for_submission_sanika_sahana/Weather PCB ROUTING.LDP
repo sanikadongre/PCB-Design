@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\dongr\Downloads\Altium\Altium\Weather PCB ROUTING.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=weather pcb routing.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_GND1_Blind_Vias|DrillFile=weather pcb routing.tx1|DrillLayers=gtl,gp1
+LayersSetName=GND2_Bot_Blind_Vias|DrillFile=weather pcb routing.tx2|DrillLayers=gp2,gbl

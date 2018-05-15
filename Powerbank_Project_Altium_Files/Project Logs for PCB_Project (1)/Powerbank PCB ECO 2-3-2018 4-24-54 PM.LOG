@@ -1,0 +1,70 @@
+Added Component: Designator=TP1(TP380X203)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.18 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TP380X203)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.18 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TP380X203)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.18 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP4(TP380X203)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.18 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP5(TP380X203)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.18 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TP380X203)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.18 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP7(TP380X203)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.18 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=TP1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=TP2-1
+Added Pin To Net: NetName=NetBT1_1 Pin=TP4-1
+Added Pin To Net: NetName=NetPR1_3 Pin=TP5-1
+Added Pin To Net: NetName=Net*_1 Pin=TP6-1
+Added Pin To Net: NetName=Net*_1 Pin=TP7-1
+Added Member To Class: ClassName=Powerbank_schematic Member=Component TP1 5019
+Added Member To Class: ClassName=Powerbank_schematic Member=Component TP2 5019
+Added Member To Class: ClassName=Powerbank_schematic Member=Component TP3 5019
+Added Member To Class: ClassName=Powerbank_schematic Member=Component TP4 5019
+Added Member To Class: ClassName=Powerbank_schematic Member=Component TP5 5019
+Added Member To Class: ClassName=Powerbank_schematic Member=Component TP6 5019
+Added Member To Class: ClassName=Powerbank_schematic Member=Component TP7 5019
+Added Room: Name=Powerbank_schematic

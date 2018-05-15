@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[Routing.GTO]
+   Generated File[Routing.GTP]
+   Generated File[Routing.GTS]
+   Generated File[Routing.GTL]
+   Generated File[Routing.GBL]
+   Generated File[Routing.GBS]
+   Generated File[Routing.GBP]
+   Generated File[Routing.GBO]
+   Generated File[Routing.GD1]
+   Generated File[Routing.GG1]
+   Generated File[Routing.RUL]
+   Generated File[Routing.EXTREP]
+   Generated File[Routing.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 12:48:24 PM On 1/26/2018
